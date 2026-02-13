@@ -19,6 +19,11 @@ Directory platform con 300+ profili verificati. Scraping automatizzato, SEO dina
 
 `Next.js 14` `Supabase` `Tailwind` `Cloudflare R2` `SEO` `Web Scraping`
 
+### [AlexanderPizzeria.com](https://alexanderpizzeria.com)
+Sito web per ristorante/pizzeria con hosting su Vercel, configurazione DNS personalizzata, email professionale su dominio custom (Keliweb), e setup completo DMARC/SPF/MX.
+
+`Next.js` `Vercel` `DNS Management` `Email Setup` `Business Website`
+
 ### Dental Demo Platform
 Sistema multi-tenant per generare siti web demo personalizzati per studi medici italiani. Scraping Google Maps → qualificazione lead → generazione sito automatica → outreach WhatsApp.
 
@@ -38,10 +43,9 @@ Scraper Python per estrarre e qualificare lead da Google Maps su scala nazionale
 
 ## 📫 Contatti
 
-- 🌐 [italiancreators.com](https://italiancreators.com)
+- 🌐 fabrizzioceruso@gmail.com
 - 💼 Disponibile per freelance e collaborazioni
 
 ---
 
 <sub>💡 Se sei uno studio medico italiano senza sito web, probabilmente ti ho già scritto su WhatsApp.</sub>
-
