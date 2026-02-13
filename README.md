@@ -1,16 +1,47 @@
-## Hi there 👋
+# Ciao, sono Tonyno 👋
 
-<!--
-**tonyno16/tonyno16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer e imprenditore digitale dall'Italia 🇮🇹
 
-Here are some ideas to get you started:
+Costruisco prodotti web, automazioni e tool di lead generation. Gestisco un ristorante e nel tempo libero creo piattaforme che risolvono problemi reali.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+
+**Frontend:** Next.js 14 · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Python · Supabase · PostgreSQL · Prisma  
+**Automazione:** n8n · Playwright · Crawl4AI · LangGraph  
+**AI:** OpenAI API · Anthropic API · RAG pipelines  
+**Infra:** Vercel · Cloudflare · Docker · Hetzner VPS
+
+## 🚀 Progetti
+
+### [ItalianCreators.com](https://italiancreators.com)
+Directory platform con 300+ profili verificati. Scraping automatizzato, SEO dinamico, blog con AI content system, migrazione da Supabase Storage a Cloudflare R2.
+
+`Next.js 14` `Supabase` `Tailwind` `Cloudflare R2` `SEO` `Web Scraping`
+
+### Dental Demo Platform
+Sistema multi-tenant per generare siti web demo personalizzati per studi medici italiani. Scraping Google Maps → qualificazione lead → generazione sito automatica → outreach WhatsApp.
+
+`Next.js 14` `Supabase` `Playwright` `Python` `Lead Generation`
+
+### Google Maps Lead Scraper
+Scraper Python per estrarre e qualificare lead da Google Maps su scala nazionale. Anti-ban integrato, scoring automatico, website checker, pipeline WhatsApp.
+
+`Python` `Playwright` `Data Scraping` `Lead Scoring`
+
+## 📊 Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tonyno&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyno&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
+
+## 📫 Contatti
+
+- 🌐 [italiancreators.com](https://italiancreators.com)
+- 💼 Disponibile per freelance e collaborazioni
+
+---
+
+<sub>💡 Se sei uno studio medico italiano senza sito web, probabilmente ti ho già scritto su WhatsApp.</sub>
+
